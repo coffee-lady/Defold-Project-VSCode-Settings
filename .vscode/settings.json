@@ -11,25 +11,25 @@
         "editor.defaultFormatter": "Koihik.vscode-lua-format",
         "editor.insertSpaces": true,
         "editor.detectIndentation": false,
-        "editor.tabSize": 2
+        "editor.tabSize": 4
     },
     "[script]": {
-        "editor.tabSize": 2,
+        "editor.tabSize": 4,
         "editor.insertSpaces": true,
         "editor.detectIndentation": false,
     },
     "[gui_script]": {
-        "editor.tabSize": 2,
+        "editor.tabSize": 4,
         "editor.insertSpaces": true,
         "editor.detectIndentation": false,
     },
     "[render_script]": {
-        "editor.tabSize": 2,
+        "editor.tabSize": 4,
         "editor.insertSpaces": true,
         "editor.detectIndentation": false,
     },
     "[editor_script]": {
-        "editor.tabSize": 2,
+        "editor.tabSize": 4,
         "editor.insertSpaces": true,
         "editor.detectIndentation": false,
     },
